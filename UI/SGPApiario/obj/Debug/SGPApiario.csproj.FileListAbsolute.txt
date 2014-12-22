@@ -1,0 +1,9 @@
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\obj\Debug\SGPApiario.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\obj\Debug\SGPApiario.Forms.frmDetalheApiario.resources
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\obj\Debug\SGPColmeia.UsrControls.usrConsultaApiario.resources
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\obj\Debug\SGPApiario.csproj.GenerateResource.Cache
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\obj\Debug\SGPApiario.dll.licenses
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\bin\Debug\SGPApiario.dll
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\bin\Debug\SGPApiario.pdb
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\obj\Debug\SGPApiario.dll
+D:\Desenvolvimento\SIGAP\UI\SGPApiario\obj\Debug\SGPApiario.pdb

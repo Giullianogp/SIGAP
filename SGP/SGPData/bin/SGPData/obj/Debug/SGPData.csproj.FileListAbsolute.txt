@@ -1,0 +1,7 @@
+D:\Desenvolvimento\SIGAP\SGP\SGPData\bin\SGPData\bin\Debug\Banco\SIGAPDB.mdf
+D:\Desenvolvimento\SIGAP\SGP\SGPData\bin\SGPData\bin\Debug\Banco\SIGAPDB_log.ldf
+D:\Desenvolvimento\SIGAP\SGP\SGPData\bin\SGPData\bin\Debug\SGPData.dll
+D:\Desenvolvimento\SIGAP\SGP\SGPData\bin\SGPData\bin\Debug\SGPData.pdb
+D:\Desenvolvimento\SIGAP\SGP\SGPData\bin\SGPData\obj\Debug\SGPData.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\SIGAP\SGP\SGPData\bin\SGPData\obj\Debug\SGPData.dll
+D:\Desenvolvimento\SIGAP\SGP\SGPData\bin\SGPData\obj\Debug\SGPData.pdb

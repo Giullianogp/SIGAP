@@ -1,0 +1,36 @@
+DataModule2.tb_acesso.Post;
+
+DataModule2.tb_acesso.Delete;
+
+
+
+
+
+
+
+
+if RadioButton1.Checked=True then
+
+begin
+  DataModule2.tb_os.Close;
+  DataModule2.tb_os.CommandText:=('select * from tb_os where codext_tecnico like "'+Edit1.Text+'%"');
+  DataModule2.tb_os.Open;
+end;
+
+if RadioButton2.Checked=True then
+
+begin
+  DataModule2.tb_os.Close;
+  DataModule2.tb_os.CommandText:=('select * from tb_os where codext_cliente  like "'+Edit1.Text+'%"');
+  DataModule2.tb_os.Open;
+end;
+
+ if RadioButton3.Checked=True then
+
+begin
+  DataModule2.tb_os.Close;
+  DataModule2.tb_os.CommandText:=('select * from tb_os where cod_os  like "'+Edit1.Text+'%"');
+  DataModule2.tb_os.Open;
+end;
+
+
