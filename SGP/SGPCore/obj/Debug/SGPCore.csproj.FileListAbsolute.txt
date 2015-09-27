@@ -1,4 +1,0 @@
-D:\Desenvolvimento\SIGAP\SGP\SGPCore\bin\Debug\SGPCore.dll
-D:\Desenvolvimento\SIGAP\SGP\SGPCore\bin\Debug\SGPCore.pdb
-D:\Desenvolvimento\SIGAP\SGP\SGPCore\obj\Debug\SGPCore.dll
-D:\Desenvolvimento\SIGAP\SGP\SGPCore\obj\Debug\SGPCore.pdb

@@ -1,5 +1,0 @@
-D:\Desenvolvimento\SIGAP\SGP\SGPRepositorio\bin\Debug\SGPRepositorio.dll
-D:\Desenvolvimento\SIGAP\SGP\SGPRepositorio\bin\Debug\SGPRepositorio.pdb
-D:\Desenvolvimento\SIGAP\SGP\SGPRepositorio\obj\Debug\SGPRepositorio.csprojResolveAssemblyReference.cache
-D:\Desenvolvimento\SIGAP\SGP\SGPRepositorio\obj\Debug\SGPRepositorio.dll
-D:\Desenvolvimento\SIGAP\SGP\SGPRepositorio\obj\Debug\SGPRepositorio.pdb
